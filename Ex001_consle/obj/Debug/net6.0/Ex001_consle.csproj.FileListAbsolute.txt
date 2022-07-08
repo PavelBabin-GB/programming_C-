@@ -1,0 +1,15 @@
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\bin\Debug\net6.0\Ex001_consle.exe
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\bin\Debug\net6.0\Ex001_consle.deps.json
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\bin\Debug\net6.0\Ex001_consle.runtimeconfig.json
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\bin\Debug\net6.0\Ex001_consle.dll
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\bin\Debug\net6.0\Ex001_consle.pdb
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.csproj.AssemblyReference.cache
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.AssemblyInfoInputs.cache
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.AssemblyInfo.cs
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.dll
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\refint\Ex001_consle.dll
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.pdb
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\Ex001_consle.genruntimeconfig.cache
+C:\Users\pavel\Documents\Lessоn_C#\Exampels\Ex001_consle\obj\Debug\net6.0\ref\Ex001_consle.dll
